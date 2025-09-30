@@ -40,7 +40,7 @@ public class Main {
 	            case 2:
 	            	se.getLista().clear();
 	            	
-	                Autonomo auto = new Autonomo("Carlos");
+	                Autonomo auto = new Autonomo("Daniel");
 	                Motocicleta  moto = new Motocicleta("DEF-5678", 2025);
 	                
 	                se.getLista().add(auto);
