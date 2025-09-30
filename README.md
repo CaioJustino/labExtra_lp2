@@ -72,6 +72,22 @@ Digite o número da entrega que deseja simular:
 
 Insira a sua opção: 2
 Valor Total da Entrega (25 km - Autonomo + Motocicleta): R$ 35.0
+
+  ____             _     _           
+ |  _ \ __ _ _ __ (_) __| | _____  __
+ | |_) / _` | '_ \| |/ _` |/ _ \ \/ /
+ |  _ < (_| | |_) | | (_| |  __/>  < 
+ |_| \_\__,_| .__/|_|\__,_|\___/_/\_\
+            |_|                      
+
+Bem-vind@ ao Gestor de Frete!
+Digite o número da entrega que deseja simular:
+ 1 | Funcionario + Carro (10 km)
+ 2 | Autonomo + Motocicleta (25 km)
+ 3 | Encerrar
+
+Insira a sua opção: 3
+Programa encerrado!
 ```
 <br>
 
