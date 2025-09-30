@@ -1,6 +1,6 @@
 # Delivery Rapidex
 
-Laboratório Extra - Sistema de Frete: projeto de POO (Programação Orientada a Objetos) desenvolvido em Java para a disciplina de Linguagem de Programação II (LP II).<br><br>
+Laboratório Extra - Sistema de Gerenciamento de Frete: projeto de POO (Programação Orientada a Objetos) desenvolvido em Java para a disciplina de Linguagem de Programação II (LP II).<br><br>
 
 ## 📋 Funcionalidades
 
